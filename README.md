@@ -42,4 +42,6 @@ I lead a team of developers and designers based out of Liverpool. We work with c
 - [How To Choose A WordPress Membership Plugin (And 3 Rookie Mistakes You Don’t Want To Fall Into)](https://www.codeable.io/blog/choose-wordpress-membership-plugin-rookie-mistake/)
 - [How To Know In Advance How Much Your WordPress Website Is Going To Cost — The Silent Art Of Getting Ballpark Estimates](https://www.codeable.io/blog/wordpress-website-cost-estimate/)
 - [The “Behind-The-Scenes” Guide To Working With An SEO Expert On Your WordPress Website](https://www.codeable.io/blog/wordpress-seo-optimization-process-expert/)
+- [[4 Questions About Caching Plugins You Always Wanted To Ask A WordPress Developer](https://www.codeable.io/blog/wordpress-seo-optimization-process-expert/)
+
 - [4 Questions About Caching Plugins You Always Wanted To Ask A WordPress Developer] (https://www.codeable.io/blog/questions-wordpress-caching-plugins/)
