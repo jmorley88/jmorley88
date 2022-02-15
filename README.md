@@ -3,7 +3,7 @@
 <a href="https://marketingthechange.com">
   <h2 align="center">Web Design Liverpool, SEO Liverpool #1 Local Web Agency </br>Say Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"</h2>
 </a>
-
+</br>
 <p align="center"><img src="https://marketingthechange.com/wp-content/uploads/2020/09/Josh-Morley-Website-Design-1024x638.jpg" width="600" height="300"  /></p>
 
 <p align="center">
@@ -44,4 +44,3 @@ I lead a team of developers and designers based out of Liverpool. We work with c
 - [The “Behind-The-Scenes” Guide To Working With An SEO Expert On Your WordPress Website](https://www.codeable.io/blog/wordpress-seo-optimization-process-expert/)
 - [[4 Questions About Caching Plugins You Always Wanted To Ask A WordPress Developer](https://www.codeable.io/blog/wordpress-seo-optimization-process-expert/)
 
-- [4 Questions About Caching Plugins You Always Wanted To Ask A WordPress Developer] (https://www.codeable.io/blog/questions-wordpress-caching-plugins/)
