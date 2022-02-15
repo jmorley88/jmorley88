@@ -1,23 +1,26 @@
 <h1 align="center">Josh Morley Github Profile</h1>
-<a href="https://marketingthechange.com"><h2 align="center">Web Design Liverpool, SEO Liverpool #1 Local Web Agency </br>Say Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-
-<p align="center"><img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/joshmorley/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jmorley88&style=flat-square&color=blue" alt=""></p>
+<a href="https://marketingthechange.com">
+  <h2 align="center">Web Design Liverpool, SEO Liverpool #1 Local Web Agency </br>Say Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"</h2>
+</a>
 
 <p align="center"><img src="https://marketingthechange.com/wp-content/uploads/2020/09/Josh-Morley-Website-Design-1024x638.jpg" width="600" height="300"  /></p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshmorley/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">   </a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jmorley88&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/></p>
+
+
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+I lead a team of developers and designers based out of Liverpool. We work with clients all over the world and have been honored to work with over 2500 projets with over 800 diffrent businesses  
+- :uk: Digital agency based in Liverpool
+- :earth_africa:	 We work with clients all over the world
+- :ok_man:  honored to work with over 2500 projets with over 800 diffrent businesses
+- :church:	Passionate about help charities and start ups
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshmorley/)
 
 ---
 
