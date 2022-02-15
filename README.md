@@ -1,5 +1,5 @@
 <h1 align="center">Josh Morley Github Profile</h1>
-<h2 align="center">Web Design Liverpool, SEO Liverpool #1 Local Web Agency </br>Say Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<a href="https://marketingthechange.com"><h2 align="center">Web Design Liverpool, SEO Liverpool #1 Local Web Agency </br>Say Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 
 <p align="center"><img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/></p>
@@ -8,7 +8,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jmorley88&style=flat-square&color=blue" alt=""></p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://marketingthechange.com/wp-content/uploads/2020/09/Josh-Morley-Website-Design-1024x638.jpg" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
