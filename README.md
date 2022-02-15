@@ -1,4 +1,6 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Say Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h2 align="center">Web Design Liverpool, SEO Liverpool #1 Local Web Agency</h2>
+
 
 <p align="center"><img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/></p>
 <p align="center">
