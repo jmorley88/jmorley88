@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/>
+</div>
+
 <!--
 **jmorley88/jmorley88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
